@@ -26,4 +26,4 @@ The button includes two SVG elements:
 The `style.css` file contains the CSS code for the web page. It is used to style the button and the SVG elements.
 
 ## Preview
-<img width="306" alt="Screenshot_20230301_004131" src="https://user-images.githubusercontent.com/59678435/222183318-643b681b-f7da-4dcf-b7b9-23d7900a6db2.png">
+<img width="960" alt="Screenshot 2023-03-01 205245" src="https://user-images.githubusercontent.com/59678435/222183695-35ff9070-4001-4c7f-a483-5cb3e4792641.png">
